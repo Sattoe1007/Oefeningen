@@ -1,0 +1,7 @@
+* aantal inwoners van Zwitserland:
+
+https://restcountries.com/v3.1/name/switzerland?fields=population
+
+* lijst van landen met valuta euro:
+
+https://restcountries.com/v3.1/currency/euro?fields=name
