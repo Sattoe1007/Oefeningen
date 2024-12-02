@@ -1,0 +1,7 @@
+* lijst afleveringen inclusief details
+
+https://rickandmortyapi.com/api/episode
+
+
+https://rickandmortyapi.com/api/character?name=morty
+https://rickandmortyapi.com/api/episode/?episode=S01
